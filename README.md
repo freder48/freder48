@@ -11,7 +11,7 @@ Just a grateful being looking to bring more beauty and justice to the world by h
 
 <h3>When I'm not coding I'm...</h3>
  <ul>
-    <li>traveling! I love backpacking and exploring new cultures and places. Let's swap travel packing tips & tricks!
+    <li>traveling! I love backpacking and exploring new cultures and places. Let's swap packing tips & tricks!
     <li>somewhere outside. I feel most at ease when I am fully immersed in nature. I love hiking, scuba diving, camping, you name it!
     <li>embodying Lizzo and "working on my fitness"..trying to make a healthy lifestyle feel less like a chore and more silly and fun. Currently into dance exercise         routines, experimenting with plant-based recipes, building a handstand into my yoga practice, and listening to music way too loud when I run.</li>
  </ul>
