@@ -20,6 +20,8 @@ Just a grateful being looking to bring more beauty and justice to the world by h
  
 jfredericksen12@gmail.com
 
+[Portfolio](https://josiefredericksen.netlify.app/#/)
+
 [LinkedIn](https://www.linkedin.com/in/josie-fredericksen/)
 
 [Github Repos](https://github.com/freder48?tab=repositories)
