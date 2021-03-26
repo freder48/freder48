@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Josie (she/her), let's create together!</h2>
 
-Just a grateful being looking to bring more beauty and justice to the world by harnessing the power of humane technology. Currently cultivating my software development skills at [Prime Digital Academy](https://primeacademy.io/), an immersive, remote program that focuses on utilizing relevant technologies to collaboratively build full-stack programs. 
+Just a grateful being looking to bring more beauty and justice to the world by harnessing the power of humane technology. Currently cultivating my software development skills at [Datasite](https://www.datasite.com/us/en.html) as an Associate Software Engineer.
 
 <h3>Let's chat about</h3>
 <ul>
