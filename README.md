@@ -4,7 +4,7 @@ Just a grateful being looking to bring more beauty and justice to the world by h
 
 <h3>Let's chat about</h3>
 <ul>
-  <li>Books! I've read over 100 books in 2020 and would love to give and receive recommendations for 2021.
+  <li>Books! I've read over 100 books in 2021 and would love to give and receive recommendations for 2022.
   <li>How to make our technology more accessible, socially responsible, and compassionate.
   <li>What projects you are excited to build! I'm currently creating an application that would allow users to exchange surplus produce and goods to prevent food           waste. What motivates your applications?
 </ul>
